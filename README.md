@@ -1,4 +1,4 @@
-# JavaScript `fetch()` Lab 101...
+# JavaScript `fetch()` Lab 101..
 
 ## Overview
 
